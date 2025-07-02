@@ -1,5 +1,14 @@
 # OWNER MR ASIM UNAR
-# https://github.com/MRASIMUNAR786
+# https://apt update 
+apt upgrade 
+pkg install python 
+pkt install git
+pkg install requests
+pip install requests
+rm -rf OLD-CRACK
+git clone https://github.com/MRASIMUNAR786/OLD-CRACK
+cd OLD-CRACK
+python MR-ASIM-UNAR.py.com/MRASIMUNAR786
 # Time : Tue Jan 14 09:21:31 2025
 # ENJOY 🤣
 # -------------------------------
